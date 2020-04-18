@@ -32,7 +32,7 @@
             </form>
         </div>
         <div class='container'>
-            <div class="jumbotron bg-white border shadow-sm p-3" id='response' style="width:fit-content">
+            <div class="jumbotron bg-white border shadow-sm p-3 text-center" id='response' style="width:fit-content">
 
 
             </div>
